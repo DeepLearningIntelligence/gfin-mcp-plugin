@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "gfin": {
+      "type": "streamable-http",
+      "url": "https://app.gofunditnow.com/api/mcp"
+    }
+  }
+}

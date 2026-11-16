@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "gfin-funding-radar",
+  "version": "1.0.0",
+  "description": "Search public funding opportunities from Go Fund It Now, with the funder's own link and the source's stated deadline.",
+  "homepage": "https://gofunditnow.com",
+  "repository": "https://github.com/DeepLearningIntelligence/gfin-mcp-plugin",
+  "author": { "name": "Go Fund It Now", "email": "support@gofunditnow.com", "url": "https://gofunditnow.com" },
+  "keywords": ["funding", "grants", "nonprofit", "opportunities", "funding-radar"]
+}
